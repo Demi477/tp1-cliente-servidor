@@ -19,7 +19,7 @@ Este proyecto consiste en una **Calculadora Distribuida** basada en la arquitect
 
 ## Estructura del Directorio
 El proyecto se encuentra organizado de la siguiente manera:
-```text
+
 tp1-cliente-servidor/
 ├── cliente/
 │   ├── Cliente.java          # Código fuente del Cliente
