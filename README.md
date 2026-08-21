@@ -1,11 +1,5 @@
-2026-08-20 19:37:33.429 [info] [main] Registration level: Infoots
-Headask providers javaApplications for Distributed Environments
 # tp1-cliente-servidor
-=======
-Activating task providers javaAplicaciones para Ambientes Distribuidos
-=======
-Activating task providers javaApplications for Distributed Environments
->>>>>>> 707cacb (Guardando cambios locales antes del pull)
+
 **Institución:** Instituto de Educación Superior N° 6.001 "Gral. Manuel Belgrano"
 **Carrera:** Tecnicatura Superior en Análisis de Sistemas y Desarrollo de Software
 **Docente:** Lic. Gabriel Artaza
