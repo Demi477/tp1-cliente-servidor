@@ -5,7 +5,6 @@
 **Docente:** Lic. Gabriel Artaza
 **Alumno:** Gabriel Gabriel
 
----
 
 ## Descripción del Proyecto
 Este proyecto consiste en una **Calculadora Distribuida** basada en la arquitectura Cliente-Servidor utilizando la API de Sockets TCP en Java (`java.net`). El sistema permite realizar operaciones matemáticas básicas  de forma remota
@@ -14,6 +13,7 @@ Este proyecto consiste en una **Calculadora Distribuida** basada en la arquitect
 *   Java Development Kit (JDK) versión 17 o superior.
 *   Terminal de comandos (PowerShell, CMD).
 *   Git para control de versiones.
+
 
 
 
@@ -31,6 +31,8 @@ tp1-cliente-servidor/
 
 Client (image.png)
 Server (image-.png)
+<img width="877" height="397" alt="FUNCIONA" src="https://github.com/user-attachments/assets/f9dd1800-7f22-4137-87a9-dedf2a5317e7" />
+<img width="826" height="542" alt="FUNCIONA1" src="https://github.com/user-attachments/assets/b8b8ea31-fa77-42a1-9214-a0740eb3bce1" />
 
 
 1. ¿Qué sucede con el cliente si el servidor no está ejecutándose al momento de intentar conectar?
